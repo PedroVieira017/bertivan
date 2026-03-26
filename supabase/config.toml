@@ -1,0 +1,4 @@
+project_id = "pfittfqtrtsfithnyxoi"
+
+[functions.create-worker]
+verify_jwt = false

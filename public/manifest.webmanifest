@@ -1,0 +1,17 @@
+{
+  "name": "Bertivan Presenças",
+  "short_name": "Bertivan",
+  "description": "Aplicação de marcação de presenças da Bertivan com PIN e geolocalização.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#132f57",
+  "lang": "pt-PT",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48 32x32 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
